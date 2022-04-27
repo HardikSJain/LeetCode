@@ -8,7 +8,7 @@ _If you like this project, please leave me a star._ &#9733;
 
 | #    |      Title     | Solutions  |      Difficulty  | Tag |
 |------|----------------|------------|------------------|-----|
-| 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [CPP](../cpp_solutions/_242.cpp)  |Easy   | Hash Table, String, Sorting  ||
+| 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [CPP](../master/cpp_solutions/_242.cpp)  |Easy   | Hash Table, String, Sorting  ||
 
 
 ## Contributing
