@@ -9,7 +9,7 @@ _If you like this project, please leave me a star._ &#9733;
 | #    |      Title     | Solutions  |      Difficulty  | Tag |
 |------|----------------|------------|------------------|-----|
 | 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [CPP](../master/cpp_solutions/_242.cpp)  |Easy   | Hash Table, String, Sorting  ||
-| 217 |[Valid Anagram](https://leetcode.com/problems/contains-duplicate/)| [CPP](../master/cpp_solutions/_217.cpp)  |Easy   | Hash Table, Array, Sorting  ||
+| 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [CPP](../master/cpp_solutions/_217.cpp)  |Easy   | Hash Table, Array, Sorting  ||
 
 
 ## Contributing
