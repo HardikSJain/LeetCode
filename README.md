@@ -6,10 +6,11 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## Algorithms
 
-| #    |      Title     | Solutions  |      Difficulty  | Tag |
-|------|----------------|------------|------------------|-----|
-| 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [CPP](../master/cpp_solutions/_242.cpp)  |Easy   | Hash Table, String, Sorting  ||
-| 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [CPP](../master/cpp_solutions/_217.cpp)  |Easy   | Hash Table, Array, Sorting  ||
+| #   | Title                                                                   | Solutions                               | Difficulty | Tag                         |
+| --- | ----------------------------------------------------------------------- | --------------------------------------- | ---------- | --------------------------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                       | [CPP](../master/cpp_solutions/_1.cpp)   | Easy       | Hash Table, Array           |  
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [CPP](../master/cpp_solutions/_217.cpp) | Easy       | Hash Table, Array, Sorting  |  
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)           | [CPP](../master/cpp_solutions/_242.cpp) | Easy       | Hash Table, String, Sorting |
 
 
 ## Contributing

@@ -41,7 +41,8 @@ void bruteforce()
 }
 
 // WRONG counting ASCII (second attempt)
-
+// wrong because there may be cases where addition of ascii of all the characters can be equal to sum of some other chars
+// for example a+c and b+b
 void countingASCII()
 {
     string s;
