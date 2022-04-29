@@ -6,12 +6,13 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## Algorithms
 
-| #   | Title                                                                                             | Solutions                               | Difficulty | Tag      |
-| --- | ------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------- | -------- |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [CPP](../master/cpp_solutions/_1.cpp)   | Easy       | Hash Map |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [CPP](../master/cpp_solutions15.cpp)    | Medium     | Heap     |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | [CPP](../master/cpp_solutions/_217.cpp) | Easy       | HashSet  |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                     | [CPP](../master/cpp_solutions/_242.cpp) | Easy       |          |
+| #   | Title                                                                                             | Solutions                               | Difficulty | Tag          |
+| --- | ------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------- | ------------ |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                 | [CPP](../master/cpp_solutions/_1.cpp)   | Easy       | Hash Map     |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               | [CPP](../master/cpp_solutions/_125.cpp) | Easy       | Two Pointers |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [CPP](../master/cpp_solutions15.cpp)    | Medium     | Heap         |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                           | [CPP](../master/cpp_solutions/_217.cpp) | Easy       | HashSet      |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                     | [CPP](../master/cpp_solutions/_242.cpp) | Easy       |              |
 
 
 ## Contributing
