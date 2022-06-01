@@ -6,16 +6,17 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## Algorithms
 
-| #    | Title                                                                                               | Solutions                                | Difficulty | Tag          |
-| ---- | --------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------ |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                   | [CPP](../master/cpp_solutions/_1.cpp)    | Easy       | Hash Map     |
-| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                 | [CPP](../master/cpp_solutions/_125.cpp)  | Easy       | Two Pointers |
-| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)   | [CPP](../master/cpp_solutions15.cpp)     | Medium     | Heap         |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                             | [CPP](../master/cpp_solutions/_217.cpp)  | Easy       | HashSet      |
-| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                       | [CPP](../master/cpp_solutions/_242.cpp)  | Easy       |              |
-| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |              |
-| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [CPP](../master/cpp_solutions/_121.cpp) | Easy       |              |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [SQL](../master/cpp_solutions/_1757.txt) | Easy       |   Database           |
+| #    | Title                                                                                                                                       | Solutions                                | Difficulty | Tag          |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------ |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                           | [CPP](../master/cpp_solutions/_1.cpp)    | Easy       | Hash Map     |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                           | [CPP](../master/cpp_solutions/_121.cpp)  | Easy       |              |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                         | [CPP](../master/cpp_solutions/_125.cpp)  | Easy       | Two Pointers |
+| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                           | [CPP](../master/cpp_solutions15.cpp)     | Medium     | Heap         |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | [CPP](../master/cpp_solutions/_217.cpp)  | Easy       | HashSet      |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | [CPP](../master/cpp_solutions/_242.cpp)  | Easy       |              |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [CPP](../master/cpp_solutions/_1365.cpp) | Easy       |              |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                           | [SQL](../master/cpp_solutions/_1757.txt) | Easy       | Database     |
+| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)                                         | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |              |
 
 
 ## Contributing
