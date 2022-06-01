@@ -15,6 +15,7 @@ _If you like this project, please leave me a star._ &#9733;
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                       | [CPP](../master/cpp_solutions/_242.cpp)  | Easy       |              |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |              |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [CPP](../master/cpp_solutions/_121.cpp) | Easy       |              |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [SQL](../master/cpp_solutions/_1757.txt) | Easy       |   Database           |
 
 
 ## Contributing
