@@ -19,6 +19,7 @@ _If you like this project, please leave me a star._ &#9733;
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [CPP](../master/cpp_solutions/_1365.cpp) | Easy       |              |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                           | [SQL](../master/cpp_solutions/_1757.txt) | Easy       | Database     |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)                                         | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |              |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)           | [CPP](../master/cpp_solutions/_771.cpp) | Easy       |              |
 
 
 ## Contributing
