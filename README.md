@@ -6,20 +6,21 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## Algorithms
 
-| #    | Title                                                                                                                                       | Solutions                                | Difficulty | Tag          |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ------------ |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                           | [CPP](../master/cpp_solutions/_1.cpp)    | Easy       | Hash Map     |
-| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                           | [CPP](../master/cpp_solutions/_121.cpp)  | Easy       |              |
-| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                         | [CPP](../master/cpp_solutions/_125.cpp)  | Easy       | Two Pointers |
-| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                           | [CPP](../master/cpp_solutions15.cpp)     | Medium     | Heap         |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | [CPP](../master/cpp_solutions/_217.cpp)  | Easy       | HashSet      |
-| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | [CPP](../master/cpp_solutions/_242.cpp)  | Easy       |              |
-| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                       | [CPP](../master/cpp_solutions/_412.cpp)  | Easy       |              |
-| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/)                                                                         | [CPP](../master/cpp_solutions/_908.cpp)  | Easy       |              |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [CPP](../master/cpp_solutions/_1365.cpp) | Easy       |              |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                           | [SQL](../master/cpp_solutions/_1757.txt) | Easy       | Database     |
-| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)                                         | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |              |
-| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)           | [CPP](../master/cpp_solutions/_771.cpp) | Easy       |              |
+| #    | Title                                                                                                                                       | Solutions                                | Difficulty | Tag      |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | -------- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                           | [CPP](../master/cpp_solutions/_1.cpp)    | Easy       |          |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                       | [CPP](../master/cpp_solutions/_20.cpp)   | Easy       | Stack    |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                           | [CPP](../master/cpp_solutions/_121.cpp)  | Easy       |          |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                         | [CPP](../master/cpp_solutions/_125.cpp)  | Easy       |          |
+| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                           | [CPP](../master/cpp_solutions15.cpp)     | Medium     |          |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | [CPP](../master/cpp_solutions/_217.cpp)  | Easy       |          |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | [CPP](../master/cpp_solutions/_242.cpp)  | Easy       |          |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                       | [CPP](../master/cpp_solutions/_412.cpp)  | Easy       |          |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                       | [CPP](../master/cpp_solutions/_771.cpp)  | Easy       |          |
+| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/)                                                                         | [CPP](../master/cpp_solutions/_908.cpp)  | Easy       |          |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [CPP](../master/cpp_solutions/_1365.cpp) | Easy       |          |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                           | [SQL](../master/cpp_solutions/_1757.txt) | Easy       | Database |
+| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)                                         | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |          |
 
 
 ## Contributing
