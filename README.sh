@@ -7,7 +7,7 @@ while (true); do
     read -p "Enter serial_no: " ans
     read -p "Enter difficulty: " difficulty
     read -p "Enter tag: " tag
-    echo "| $num |[$title]($link) | [CPP](cpp_solutions/$ans.cpp) | $difficulty | $tag |" >> $filename
+    echo "| $num |[$title]($link) | [CPP](cpp_solutions/_$ans.cpp) | $difficulty | $tag |" >> $filename
     
     read -p "Do you want to add another row? (y/n) " yn
     case $yn in
