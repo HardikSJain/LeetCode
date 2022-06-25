@@ -1,22 +1,5 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-CPP%20-blue.svg) 
 
-_If you like this project, please leave me a star._ &#9733;
-
-> ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.quora.com/How-effective-is-Leetcode-for-preparing-for-technical-interviews)
-
-## Contributing
-Your ideas/fixes/algorithms are more than welcome!
-
-1. Fork this repo
-2. Clone your forked repo (`git clone https://github.com/YOUR_GITHUB_USERNAME/Leetcode.git`) onto your local machine
-3. `cd` into your cloned directory, create your feature branch (`git checkout -b my-awesome-fix`)
-4. `git add` your desired changes to this repo
-5. Commit your changes (`git commit -m 'Added some awesome features/fixes'`)
-6. Push to the branch (`git push origin my-awesome-feature`)
-7. Open your forked repo on Github website, create a new Pull Request to this repo!
-
-
-
 ## Algorithms
 
 | #    | Title                                                                                                                                                   | Solutions                                | Difficulty | Tag                   |
@@ -50,6 +33,7 @@ Your ideas/fixes/algorithms are more than welcome!
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)                                                                       | [CPP](../master/cpp_solutions/_503.cpp)  | Medium     | Stack                 |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                                 | [CPP](../master/cpp_solutions/_566.cpp)  | Easy       | Matrix                |
 | 0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)                                           | [CPP](../master/cpp_solutions/_581.cpp)  | Medium     | 2 Pointer             |
+| 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)                                                                             | [CPP](cpp_solutions/_665.cpp)            | Medium     | Array                 |
 | 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                                   | [CPP](../master/cpp_solutions/_674.cpp)  | Easy       | Array                 |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                                 | [CPP](../master/cpp_solutions/_739.cpp)  | Medium     | Stack                 |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                                   | [CPP](../master/cpp_solutions/_771.cpp)  | Easy       |                       |
