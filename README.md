@@ -54,3 +54,4 @@
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                                             | [CPP](../master/cpp_solutions/_2293.cpp) | Easy       | Divide & Conquer       |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)                   | [CPP](../master/cpp_solutions/_2294.cpp) | Medium     | Greedy                 |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)                                                     | [CPP](cpp_solutions/_2341.cpp)           | Easy       | Array                  |
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)                                 | [CPP](cpp_solutions/_2342.cpp)           | Medium     |                        |
