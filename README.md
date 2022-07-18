@@ -53,3 +53,4 @@
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)                                                     | [CPP](../master/cpp_solutions/_2255.cpp) | Easy       |                        |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                                             | [CPP](../master/cpp_solutions/_2293.cpp) | Easy       | Divide & Conquer       |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)                   | [CPP](../master/cpp_solutions/_2294.cpp) | Medium     | Greedy                 |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)                                                     | [CPP](cpp_solutions/_2341.cpp)           | Easy       | Array                  |
