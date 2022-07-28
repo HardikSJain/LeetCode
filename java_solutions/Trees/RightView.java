@@ -32,17 +32,19 @@ public class RightView {
         List<Integer> ans = new ArrayList<Integer>();
         rightView(root, ans, 0);
         return ans;
-        
+
     }
-    private void rightView(TreeNode root, List<Integer> ans, int level){
-        if(root == null){
+
+    private void rightView(TreeNode root, List<Integer> ans, int level) {
+        if (root == null) {
             return;
         }
-        
-        if(level == ans.size()){
+
+        if (level == ans.size()) {
             ans.add(root.val);
         }
-        rightView(root.right, ans, level+1);
-        rightView(root.left, ans, level+1);
+        rightView(root.right, ans, level + 1);
+        rightView(root.left, ans, level + 1);
     }
 }
+
