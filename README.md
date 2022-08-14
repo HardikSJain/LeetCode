@@ -4,7 +4,7 @@
 
 | #    | Title                                                                                                                                                   | Solutions                                | Difficulty | Tag                    |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- | ---------------------- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                       | [CPP](../master/cpp_solutions/_1.cpp)    | Easy       |                        |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                       | [CPP](../master/cpp_solutions/_1.cpp)    | Easy       | Array, HashMap         |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                   | [CPP](cpp_solutions/_9.cpp)              | Easy       | Math                   |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                                   | [CPP](../master/cpp_solutions/_20.cpp)   | Easy       | Stack                  |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)       | [CPP](../master/cpp_solutions/_34.cpp)   | Medium     | Binary Search          |
