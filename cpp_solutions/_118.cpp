@@ -18,8 +18,7 @@ vector<vector<int>> generate(int n)
 
 int main()
 {
-    int numRows;
-    cin >> numRows;
+    int numRows = 5;
     vector<vector<int>> result = generate(numRows);
     for (int i = 0; i < result.size(); i++)
     {
